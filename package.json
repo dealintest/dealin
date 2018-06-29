@@ -1,0 +1,15 @@
+{
+  "name": "aws_lambda_function",
+  "version": "1.0.0",
+  "description": "Aws Lambda function to talk to db",
+  "main": "database.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.1.0",
+    "paystack": "^2.0.1"
+  }
+}
